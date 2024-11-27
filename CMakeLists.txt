@@ -1,5 +1,5 @@
 # Hping5 Top-Level CMake Configuration File.
-cmake_minimum_required(VERSION 3.29)
+cmake_minimum_required(VERSION 3.25)
 project(hping5
   VERSION 1.0.0.0
   DESCRIPTION "C++20 re-write of the classic hping3 utility by antirez."
