@@ -1,3 +1,7 @@
+# Ignore Build Outputs
+build/
+
+# CMake Outputs
 CMakeLists.txt.user
 CMakeCache.txt
 CMakeFiles
@@ -10,3 +14,4 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 CMakeUserPresets.json
+
